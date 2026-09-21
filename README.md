@@ -2,7 +2,7 @@
 
 
 ## 🙋‍♂️ About Me
-I’m Mark Armstrong, a senior at The University of Texas at Dallas majoring in Computer Science.  
+I’m Mark Armstrong, graduate from The University of Texas at Dallas major in Computer Science.  
 I love building impactful software 💻, exploring new tech 🚀, and solving real-world problems 🧩.  
 When I’m not coding, you’ll find me fishing 🎣, cooking 🍳, or weightlifting 🏋️‍♂️ — staying balanced fuels my creativity and problem-solving skills.
 
@@ -10,10 +10,10 @@ When I’m not coding, you’ll find me fishing 🎣, cooking 🍳, or weightlif
 Developing a machine learning–based real estate price prediction system that integrates public datasets, feature engineering, and predictive models to analyze and visualize housing market trends in selected U.S. regions.
 
 ## 📚 Currently Learning
-HTML, CSS, and JavaScript to sharpen my frontend development skills and create responsive, user-friendly interfaces.
+I’m currently expanding my skills in Python for AI development and AWS cloud computing.
 
 ## 💡 Interests
-Software engineering, algorithms & data structures, and exploring how different tech stacks work together.
+AI development, automation, cloud computing, and exploring how different technologies and systems work together.
 
 
 ## 💻 Tech Stack & Tools
@@ -29,4 +29,6 @@ Software engineering, algorithms & data structures, and exploring how different 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
 </p>
